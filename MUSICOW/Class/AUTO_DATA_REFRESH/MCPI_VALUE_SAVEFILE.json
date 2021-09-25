@@ -1,0 +1,111 @@
+{
+    "2021-09-25": {
+        "23 : 53 : 48": {
+            "MCPI_CURRENT_VALUE": "336.28",
+            "MCPI_FLUCTUATE_AMOUNT": "2.05",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.61%"
+        }
+    },
+    "2021-09-26": {
+        "0 : 23 : 42": {
+            "MCPI_CURRENT_VALUE": "336.30",
+            "MCPI_FLUCTUATE_AMOUNT": "0.00",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "0 : 23 : 55": {
+            "MCPI_CURRENT_VALUE": "336.30",
+            "MCPI_FLUCTUATE_AMOUNT": "0.00",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "0 : 25 : 17": {
+            "MCPI_CURRENT_VALUE": "336.30",
+            "MCPI_FLUCTUATE_AMOUNT": "0.00",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "0 : 34 : 0": {
+            "MCPI_CURRENT_VALUE": "336.46",
+            "MCPI_FLUCTUATE_AMOUNT": "0.16",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.05%"
+        },
+        "0 : 36 : 0": {
+            "MCPI_CURRENT_VALUE": "336.40",
+            "MCPI_FLUCTUATE_AMOUNT": "0.10",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.03%"
+        },
+        "0 : 40 : 0": {
+            "MCPI_CURRENT_VALUE": "336.35",
+            "MCPI_FLUCTUATE_AMOUNT": "0.05",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "0 : 44 : 0": {
+            "MCPI_CURRENT_VALUE": "336.37",
+            "MCPI_FLUCTUATE_AMOUNT": "0.07",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.02%"
+        },
+        "0 : 46 : 0": {
+            "MCPI_CURRENT_VALUE": "336.29",
+            "MCPI_FLUCTUATE_AMOUNT": "0.01",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "0 : 48 : 0": {
+            "MCPI_CURRENT_VALUE": "336.29",
+            "MCPI_FLUCTUATE_AMOUNT": "0.01",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "0 : 50 : 0": {
+            "MCPI_CURRENT_VALUE": "336.39",
+            "MCPI_FLUCTUATE_AMOUNT": "0.09",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.03%"
+        },
+        "0 : 52 : 0": {
+            "MCPI_CURRENT_VALUE": "336.35",
+            "MCPI_FLUCTUATE_AMOUNT": "0.05",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "0 : 54 : 0": {
+            "MCPI_CURRENT_VALUE": "336.32",
+            "MCPI_FLUCTUATE_AMOUNT": "0.02",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "0 : 56 : 0": {
+            "MCPI_CURRENT_VALUE": "336.33",
+            "MCPI_FLUCTUATE_AMOUNT": "0.03",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "0 : 58 : 0": {
+            "MCPI_CURRENT_VALUE": "336.34",
+            "MCPI_FLUCTUATE_AMOUNT": "0.04",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "1 : 0 : 0": {
+            "MCPI_CURRENT_VALUE": "336.34",
+            "MCPI_FLUCTUATE_AMOUNT": "0.04",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "1 : 2 : 0": {
+            "MCPI_CURRENT_VALUE": "336.33",
+            "MCPI_FLUCTUATE_AMOUNT": "0.03",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.01%"
+        },
+        "1 : 4 : 0": {
+            "MCPI_CURRENT_VALUE": "336.31",
+            "MCPI_FLUCTUATE_AMOUNT": "0.01",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "1 : 6 : 0": {
+            "MCPI_CURRENT_VALUE": "336.31",
+            "MCPI_FLUCTUATE_AMOUNT": "0.01",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        },
+        "1 : 8 : 0": {
+            "MCPI_CURRENT_VALUE": "336.28",
+            "MCPI_FLUCTUATE_AMOUNT": "0.02",
+            "MCPI_FLUCTUATE_PERCENTAGE": "-0.01%"
+        },
+        "1 : 10 : 0": {
+            "MCPI_CURRENT_VALUE": "336.30",
+            "MCPI_FLUCTUATE_AMOUNT": "0.00",
+            "MCPI_FLUCTUATE_PERCENTAGE": "+0.00%"
+        }
+    }
+}

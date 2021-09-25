@@ -1,0 +1,13 @@
+{
+    "SITE_URL_LIST": {
+        "MCPI_INDEX_SITE": "https://www.musicow.com/mcpi"
+
+    },
+    "GRAPH_XPATH": "/html/body/div[@id='wrap']/div[@class='page_mcpi']/div[@class='sec_mcpi content']/div[1]/div[@class='box_mcpi']",
+    "MCPI_INDEX_XPATH": {
+        "MCPI_CURRENT_VALUE": "/html/body/div[@id='wrap']/div[@class='page_mcpi']/div[@class='sec_mcpi content']/div[1]/div[@class='box_mcpi']/dl[@class='subtit_mcpi']/dd[@id='mcpi_value']",
+        "MCPI_FLUCTUATE_AMOUNT": "/html/body/div[@id='wrap']/div[@class='page_mcpi']/div[@class='sec_mcpi content']/div[1]/div[@class='box_mcpi']/dl[@class='subtit_mcpi']/dd[@id='mcpi_icon']",
+        "MCPI_FLUCTUATE_PERCENTAGE": "/html/body/div[@id='wrap']/div[@class='page_mcpi']/div[@class='sec_mcpi content']/div[1]/div[@class='box_mcpi']/dl[@class='subtit_mcpi']/dd[@id='mcpi_color']"
+    }
+    
+}
